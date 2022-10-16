@@ -1,4 +1,4 @@
-[![MasterHead](https://pbs.twimg.com/media/FKNlhKZUcAEd7FY?format=jpg&name=4096x4096)]
+![MasterHead](https://pbs.twimg.com/media/FKNlhKZUcAEd7FY?format=jpg&name=4096x4096)
 <h1 align="center">Hi 👋, I'm NIBIN P SREENIVAS</h1>
 <h3 align="center">A passionate APP developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
