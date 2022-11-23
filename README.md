@@ -18,7 +18,7 @@
 
 
 <div align="left">
-        <h2><img width="60" align="center"
+        <h2><img width="90" align="center"
                 src="https://giffiles.alphacoders.com/576/57604.gif" /> &nbsp;My Stats
         </h2>
     </div>
