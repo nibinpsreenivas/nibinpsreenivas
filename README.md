@@ -30,7 +30,7 @@
                 <img alt="Nibin's Github Stats" height="160"
                     src="https://github-readme-stats.vercel.app/api/top-langs?username=nibinpsreenivas&hide=assembly&layout=compact&theme=dark" />
             </p>  
-        <p align="center"><a href="https://github-readme-stats.nibinpsreenivas.vercel.app/api/top-langs/?username=nibinpsreenivas&langs_count=10&layout=compact"><img src = "https://github-readme-stats.nibinpsreenivas.vercel.app/api/top-langs/?username=nibinpsreenivas&langs_count=10&layout=compact&theme=material-palenight"></a></p>
+        
 <p align="center">
   <a href="#">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=nibinpsreenivas"/>
