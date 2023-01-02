@@ -28,7 +28,7 @@
                 <img height="160" alt="Nibin's Github Stats"
                     src="https://github-readme-stats.vercel.app/api?username=nibinpsreenivas&show_icons=true&hide_border=true&theme=dark&count_private=true" />
                 <img alt="Nibin's Github Stats" height="160"
-                    src="https://github-readme-stats.vercel.app/api/langs?username=nibinpsreenivas&hide=assembly&layout=compact&theme=dark" />
+                    src="https://github-readme-stats.vercel.app/api/top-langs?username=nibinpsreenivas&hide=assembly&layout=compact&theme=dark" />
             </p>  
 <p align="center">
   <a href="#">
