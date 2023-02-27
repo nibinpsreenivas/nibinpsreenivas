@@ -5,11 +5,22 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nibinpsreenivas&label=Profile%20views&color=0e75b6&style=flat" alt="nibinpsreenivas" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 💬 Ask me about **JS,JAVA,ANDROID**
+- 💬 Ask me about **DART,JAVA,FLUTTER**
+- > Be Creative to Think Unique, to Be Unique - **NIBIN** 💕
 
 - 📫 How to reach me **nibinpsreenivas55@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<!-- Social Links !-->
+ _Join the Ecosystem 💫_
+
+<a href="https://www.linkedin.com/in/nibin-psreenivas-426678253/">
+  <img align="left" alt="Nibin's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/nibinpsreenivas">
+  <img align="left" alt="Nibin's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+
 
 <p align="left">
 </p>
