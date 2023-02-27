@@ -64,6 +64,33 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
   </div>
+  
+  <h2 align="left"> 💻 Coding Profiles:</h2>
+<br/>
+
+<p align="center">
+  <a href="https://www.hackerrank.com/nibinpsreenivas1"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
+
+  
+</p>
+
+<br/>
+    <h2 align="left"> 💻 My workspace:</h2><br/>
+    <p align='center'>
+  <br/>
+        
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/><br/>
+ <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Elementary%20OS-64BAFF?style=for-the-badge&logo=elementary&logoColor=white"/>
+        <img src="https://img.shields.io/badge/ASUS-83B81A?style=for-the-badge&logo=Asus&logoColor=white"/>
+ 
+  <img src="https://img.shields.io/badge/intel-core%20i5%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+</p>
+
+
+<br />
 
 
 <div align="left">
