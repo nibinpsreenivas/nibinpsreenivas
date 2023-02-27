@@ -21,8 +21,11 @@
 </a>
 <p align="left">
 ### About me 🚀
+ <p align="left">
 - 🌱 Works on **Flutter** by passion and **Data Engineering** by field
+  <p align="left">
 - 👯 Love to help people and grow as a community
+   <p align="left">
 - 👣 I like gym and Badminton
 
 
