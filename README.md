@@ -71,13 +71,11 @@
 <p align="center">
   <a href="https://www.hackerrank.com/nibinpsreenivas1"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
 
-  <br/>
 </p>
-
-
-    <h2 align="left"> 💻 My workspace:</h2> 
-    <br/>
+<br/>
+    <h2 align="left"> 💻 My workspace:</h2><br/>
     <p align='center'>
+  <br/>
  
         
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
