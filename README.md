@@ -19,6 +19,10 @@
 <a href="https://github.com/nibinpsreenivas">
   <img align="left" alt="Nibin's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+### About me 🚀
+- 🌱 Works on **Flutter** by passion and **Data Engineering** by field
+- 👯 Love to help people and grow as a community
+- 👣 I like gym and Badminton
 
 
 <p align="left">
