@@ -34,7 +34,7 @@
 
 
 <div align="left">
-        <h2><img src="https://emojis.slackmojis.com/emojis/images/1471045863/884/ninja.gif?1471045863" align="center"
+        <h2><img src="https://roszkowski.dev/images/2020-05-04/flutter_logo_leg.gif" align="center"
                 width="40" /> Languages and Tools</h2>
         <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>   
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
