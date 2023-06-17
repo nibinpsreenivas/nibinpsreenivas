@@ -27,7 +27,7 @@
 - 👯 Love to help people and grow as a community
    <p align="left">
 - 👣 I like gym and Badminton
- 
+  
 
 <p align="left">
 </p>
