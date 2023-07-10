@@ -129,7 +129,7 @@
     
   </a>
 </p>
- 
+ </div>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;&color=0:11009E,100:cb166d&amp;height=100&amp;section=footer&"/>
-</div>
