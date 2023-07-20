@@ -3,11 +3,6 @@
 <!-- HaedLine !-->
 <img src="https://readme-typing-svg.herokuapp.com?font=Algerians&color=000000&width=500&lines=I+am+a+Flutter+Evangelist+and+data+Engineer....">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nibinpsreenivas&label=Profile%20views&color=0e75b6&style=flat" alt="nibinpsreenivas" /> </p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="https://platane.github.io/snk/" />
-</picture>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
    
 - 💬 Ask me about **DART,JAVA,FLUTTER**
