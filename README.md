@@ -113,7 +113,7 @@
     <div>
             <p align="center">
                 <img height="160" alt="Nibin's Github Stats"
-                    src="https://github-readme-stats.vercel.app/api?username=nibinpsreenivas&show_icons=true&hide_border=true&theme=dark&color=78C1F3&count_private=true" />
+                    src="https://github-readme-stats.vercel.app/api?username=nibinpsreenivas&show_icons=true&hide_border=true&theme=light&color=78C1F3&count_private=true" />
                 <img alt="Nibin's Github Stats" height="160"
                     src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nibinpsreenivas&theme=dark&layout=compact&langs_count=8&hide_border=true)" />
             </p>  
