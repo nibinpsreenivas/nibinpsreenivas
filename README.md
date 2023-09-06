@@ -140,5 +140,5 @@
 </p>
  </div>
 
-[![Nibin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nibinpsreenivas&theme=light)](https://github.com/nibinpsreenivas/github-readme-activity-graph)
+[![Nibin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nibinpsreenivas&theme=github-light&hide_border=true)](https://github.com/nibinpsreenivas/github-readme-activity-graph)
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;&color=0:78C1F3,25:9BE8D8,50:E2F6CA,75:E2F6CA,100:F31559&amp;height=100&amp;section=footer&"/>
