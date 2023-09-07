@@ -89,7 +89,7 @@
 <br/>
 <p align="center">
   <a href="https://www.hackerrank.com/nibinpsreenivas1"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
-
+  <a href="https://leetcode.com/nibinpsreenivas55/"><img src ="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"></a>
 </p>
 <br/>
     <h2 align="left"> 💻 My workspace:</h2><br/>
