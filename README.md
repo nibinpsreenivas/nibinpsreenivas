@@ -81,7 +81,7 @@
 <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"/>
 
-
+ 
   </div>
   
   <h2 align="left"> 💻 Coding Profiles:</h2>
