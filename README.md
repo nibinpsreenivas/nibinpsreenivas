@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;&color=0:78C1F3,25:9BE8D8,50:E2F6CA,75:E2F6CA,100:F31559&amp;height=100&amp;section=header&"/>
 <a href="https://drive.google.com/file/d/1dUFPSNg-7YLLp5s9qYWz-UiKlbkgwpfq/view?usp=sharing"><img src ="https://raw.githubusercontent.com/nibinpsreenivas/CEC-CONNECT/main/Screenshot%202023-09-11%20001338.png"></a>
 <h1 align="center">Hi 👋, I'm NIBIN P SREENIVAS</h1>
 <!-- HaedLine !-->
