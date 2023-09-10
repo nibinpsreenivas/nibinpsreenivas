@@ -1,4 +1,4 @@
-![MasterHead]([https://pbs.twimg.com/media/FKNlhKZUcAEd7FY?format=jpg&name=4096x4096](https://raw.githubusercontent.com/nibinpsreenivas/CEC-CONNECT/main/Screenshot%202023-09-11%20001338.png))
+![MasterHead]([https://pbs.twimg.com/media/FKNlhKZUcAEd7FY?format=jpg&name=4096x4096](https://raw.githubusercontent.com/nibinpsreenivas/CEC-CONNECT/main/Screenshot%202023-09-11%20001338.png)
 <h1 align="center">Hi 👋, I'm NIBIN P SREENIVAS</h1>
 <!-- HaedLine !-->
 <img src="https://readme-typing-svg.herokuapp.com?font=Algerians&color=000000&width=500&lines=I+am+a+Flutter+Evangelist+and+data+Engineer....">
