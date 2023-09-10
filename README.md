@@ -1,4 +1,4 @@
-<a href="https://drive.google.com/file/d/1dUFPSNg-7YLLp5s9qYWz-UiKlbkgwpfq/view?usp=sharing"><img src ="[https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06](https://raw.githubusercontent.com/nibinpsreenivas/CEC-CONNECT/main/Screenshot%202023-09-11%20001338.png)"></a>
+<a href="https://drive.google.com/file/d/1dUFPSNg-7YLLp5s9qYWz-UiKlbkgwpfq/view?usp=sharing"><img src ="https://raw.githubusercontent.com/nibinpsreenivas/CEC-CONNECT/main/Screenshot%202023-09-11%20001338.png"></a>
 <h1 align="center">Hi 👋, I'm NIBIN P SREENIVAS</h1>
 <!-- HaedLine !-->
 <img src="https://readme-typing-svg.herokuapp.com?font=Algerians&color=000000&width=500&lines=I+am+a+Flutter+Evangelist+and+data+Engineer....">
