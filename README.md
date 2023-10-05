@@ -140,6 +140,18 @@
   </a>
 </p>
  </div>
+ <br/>
+   <h2><img width="90" align="center"
+                src="https://repository-images.githubusercontent.com/541499717/0f95061a-8b05-4f62-b8a6-e417dc20b283" /> &nbsp;hacktoberfest 
+        </h2>
+    <p align='center'>
+  <br/>
+ 
+  
+</p>
+ 
+
+<br />
 
 [![Nibin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nibinpsreenivas&theme=github-light&hide_border=true)](https://github.com/nibinpsreenivas/github-readme-activity-graph)
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;&color=0:78C1F3,25:9BE8D8,50:E2F6CA,75:E2F6CA,100:F31559&amp;height=100&amp;section=footer&"/>
