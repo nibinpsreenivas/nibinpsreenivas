@@ -141,7 +141,7 @@
 </p>
  </div>
  <br/>
-   <h2><img width="90" align="center"
+   <h2><img width="50" align="center"
                 src="https://repository-images.githubusercontent.com/541499717/0f95061a-8b05-4f62-b8a6-e417dc20b283" /> &nbsp;hacktoberfest 
         </h2>
     <p align='center'>
