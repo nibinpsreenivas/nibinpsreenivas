@@ -151,9 +151,7 @@
 
 [![Nibin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nibinpsreenivas&theme=github-light&hide_border=true)](https://github.com/nibinpsreenivas/github-readme-activity-graph)
 
-  <h2><img width="30" align="center"
-                src="https://repository-images.githubusercontent.com/541499717/0f95061a-8b05-4f62-b8a6-e417dc20b283" /> &nbsp;hacktoberfest 
-        </h2>
+  
     
  
   
