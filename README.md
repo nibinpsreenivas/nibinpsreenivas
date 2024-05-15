@@ -1,5 +1,5 @@
 
-<a href="https://nibinpsreenivas.github.io/Portfolio-Website-Using-React_deploy/"><img src ="https://raw.githubusercontent.com/nibinpsreenivas/Portfolio-Website-Using-React/main/Screenshot%20from%202024-05-11%2013-12-32.png"></a>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;&color=0:78C1F3,25:9BE8D8,50:E2F6CA,75:E2F6CA,100:F31559&amp;height=100&amp;section=header&"/>
 
 
@@ -10,7 +10,8 @@
     
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
           
-- 💬 Ask me about **DART,JAVA,FLUTTER** 
+- 💬 Ask me about **DART,JAVA,FLUTTER**
+- 💻To know more about me :<a href="https://nibinpsreenivas.github.io/Portfolio-Website-Using-React_deploy/"><Portfolio></a>
 - > Be Creative to Think Unique, to Be Unique - **NIBIN** 💕
                    
 - 📫 How to reach me **nibinpsreenivas55@gmail.com**
