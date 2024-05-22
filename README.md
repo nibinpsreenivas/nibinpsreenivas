@@ -10,15 +10,14 @@
                    
 - 📫 How to reach me **nibinpsreenivas55@gmail.com**
                               
-<h3 align="left">Connect with me:</h3>
-<!-- Social Links !--> 
- _Join the Ecosystem 💫_
-<a href="https://www.linkedin.com/in/nibin-psreenivas-426678253/">
-  <img align="left" alt="Nibin's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/nibinpsreenivas">
-  <img align="left" alt="Nibin's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
+### Let's Connect :coffee:
+<p align="center">
+	<a href="https://github.com/nibinpsreenivas"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/nibin-psreenivas-426678253/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href=""><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href=""><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href=""><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+</p>
 <p align="left">
 ### About me 🚀
  <p align="left">
