@@ -1,4 +1,4 @@
-![alt text](Neon sign.png)
+![bmi (820 x 360 px)](https://raw.githubusercontent.com/nibinpsreenivas/nibinpsreenivas/main/Neon%20sign.png)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;&color=0:78C1F3,25:9BE8D8,50:E2F6CA,75:E2F6CA,100:F31559&amp;height=100&amp;section=header&"/>
 
