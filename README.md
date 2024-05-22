@@ -1,9 +1,4 @@
 ![bmi (820 x 360 px)](https://raw.githubusercontent.com/nibinpsreenivas/nibinpsreenivas/main/Neon%20sign.png)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;&color=0:78C1F3,25:9BE8D8,50:E2F6CA,75:E2F6CA,100:F31559&amp;height=100&amp;section=header&"/>
-
-
-<h1 align="center">Hi 👋, I'm NIBIN P SREENIVAS</h1>
 <!-- HaedLine !-->
 <img src="https://readme-typing-svg.herokuapp.com?font=Algerians&color=000000&width=500&lines=I+am+a+Flutter+Evangelist+and+data+Engineer....">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nibinpsreenivas&label=Profile%20views&color=0e75b6&style=flat" alt="nibinpsreenivas" /> </p>
