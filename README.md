@@ -1,11 +1,5 @@
 ![bmi (1020 x 360 px)](https://raw.githubusercontent.com/nibinpsreenivas/nibinpsreenivas/main/Neon%20sign.png)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nibinpsreenivas&label=Profile%20views&color=0e75b6&style=flat" alt="nibinpsreenivas" /> </p>          
-- 💬 Ask me about **DART,JAVA,FLUTTER**
-- 💻To know more about me :<a href="https://nibinpsreenivas.github.io/Portfolio-Website-Using-React_deploy/">Portfolio</a>
-- > Be Creative to Think Unique, to Be Unique - **NIBIN** 💕
-                   
-- 📫 How to reach me **nibinpsreenivas55@gmail.com**
-                              
 ### Let's Connect :coffee:
 <p align="center">
 	<a href="https://github.com/nibinpsreenivas"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
@@ -16,14 +10,18 @@
 </p>
 <p align="left">
 ### About me 🚀
+<p align="left">
+	- > Be Creative to Think Unique, to Be Unique - **NIBIN** 💕
+ <p align="left">
+ - 💻To know more about me :<a href="https://nibinpsreenivas.github.io/Portfolio-Website-Using-React_deploy/">Portfolio</a>	 
  <p align="left">
 - 🌱 Works on **Flutter** by passion and **Data Engineering** by field
   <p align="left">
 - 👯 Love to help people and grow as a community
    <p align="left">
 - 👣 I like gym and Badminton
-            
-    
+            <p align="left">   
+    - 📫 How to reach me **nibinpsreenivas55@gmail.com**
 <p align="left">
 </p>
   
