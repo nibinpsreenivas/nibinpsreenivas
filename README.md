@@ -159,6 +159,6 @@
   
 </p>
  
-![bmi (1020 x 360 px)](https://github.com/nibinpsreenivas/nibinpsreenivas/blob/main/Neon%20sign%20(1).png)
+![bmi (1520 x 360 px)](https://github.com/nibinpsreenivas/nibinpsreenivas/blob/main/Neon%20sign%20(1).png)
 <img src="https://github.com/nibinpsreenivas/nibinpsreenivas/blob/main/Neon%20sign%20(1).png" style="float:left; margin-right:10px;" alt="BMI">
 
