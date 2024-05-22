@@ -1,9 +1,5 @@
 ![bmi (1020 x 360 px)](https://raw.githubusercontent.com/nibinpsreenivas/nibinpsreenivas/main/Neon%20sign.png)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nibinpsreenivas&label=Profile%20views&color=0e75b6&style=flat" alt="nibinpsreenivas" /> </p>
-    
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-          
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nibinpsreenivas&label=Profile%20views&color=0e75b6&style=flat" alt="nibinpsreenivas" /> </p>          
 - 💬 Ask me about **DART,JAVA,FLUTTER**
 - 💻To know more about me :<a href="https://nibinpsreenivas.github.io/Portfolio-Website-Using-React_deploy/">Portfolio</a>
 - > Be Creative to Think Unique, to Be Unique - **NIBIN** 💕
