@@ -87,7 +87,8 @@ I'm passionate about **engineering-level software development** and currently fo
 ---
 
 ## 📫 Connect with Me  
-
+🔗 **Portfolio:** [nibinpsreenivas.github.io/Portfolio-Website-Using-React_deploy](https://nibinpsreenivas.github.io/Portfolio-Website-Using-React_deploy/)
+📧 **Email:** [Your Email Address]
 🔗 **LinkedIn:** [linkedin.com/in/nibinpsreenivas](https://www.linkedin.com/in/nibinpsreenivas)  
 📧 **Email:** nibinpsreenivas@gmail.com  
 📘 **LeetCode:** [leetcode.com/nibinpsreenivas](https://leetcode.com/nibinpsreenivas)  
