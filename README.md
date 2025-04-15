@@ -20,8 +20,6 @@ I'm passionate about **engineering-level software development**, especially in t
 - 🧑‍💻 Strengthening **C++ fundamentals** and STL for better problem-solving.
 - 📈 Maintaining **LeetCode and GitHub streaks** to improve consistency and coding skill.
 
-⚡ I aim to contribute to **high-performance C++ healthcare applications** in projects like **Deep Health** or **Terarecon**.
-
 ---
 
 ## 🛠️ Tech Stack  
