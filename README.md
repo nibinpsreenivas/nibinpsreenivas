@@ -56,12 +56,31 @@ I'm passionate about **engineering-level software development** and currently fo
 ---
 
 ## 📂 Projects  
+🚀 **[LeetCode Solutions](https://github.com/nibinpsreenivas/leetcode)**  
+📘 A collection of solutions to various LeetCode problems, primarily in Java.
 
-🚀 **[MFC Tic Tac Toe Game (SDI)](https://github.com/nibinpsreenivas/mfc-tic-tac-toe)**  
+🚀 **[CEC Connect](https://github.com/nibinpsreenivas/cec_connect)**  
+🌐 A platform aimed at connecting students and alumni of the College of Engineering Chengannur.
+
+🚀 **[Hellogram Node.js](https://github.com/nibinpsreenivas/Hellogram_Node-js)**  
+💬 A simple social media application built using Node.js.
+
+🚀 **[Object-Oriented Programming](https://github.com/nibinpsreenivas/Object-oriented-programming)**  
+🧠 Implementations and examples demonstrating OOP concepts in C++.
+
+🚀 **[Data Structures and Algorithms in Java](https://github.com/nibinpsreenivas/Data-Structures-and-Algorithms-in-Java)**  
+📚 A repository containing implementations of fundamental data structures and algorithms using Java.
+
+🚀 **[To-Do App with Backend](https://github.com/nibinpsreenivas/todo_with_back_end)**  
+📝 A full-stack to-do application with a backend implemented in Node.js and Express.
+
+🚀 **[MFC Tic Tac Toe Game (SDI)](loading.....)**  
 🎮 A classic **Tic Tac Toe game** built using **C++ and MFC** with a **custom UI** and SDI structure.  
 
-🚀 **[C++ Console Applications](https://github.com/nibinpsreenivas/console-cpp-apps)**  
+🚀 **[C++ Console Applications](loading....)**  
 📦 A set of beginner-level applications developed during early C++ training, focusing on logic and OOP fundamentals.  
+
+🔗 Explore more of my projects on my [GitHub Repositories](https://github.com/nibinpsreenivas?tab=repositories).
 
 🔜 More projects coming soon: **DirectX experiments**
 
