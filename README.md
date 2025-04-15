@@ -11,7 +11,7 @@
 
 I am a **CSE Graduate** from **College of Engineering, Chengannur (2024)** and currently working as a **Software Engineer Trainee at Trenser Technology Solutions**.  
 
-I'm passionate about **engineering-level software development**, especially in the **healthcare domain**, and currently focused on mastering **C++ and MFC** for building performance-critical desktop applications.
+I'm passionate about **engineering-level software development** and currently focused on mastering **C++ and MFC** for building performance-critical desktop applications.
 
 ### **🚀 What I’m Currently Doing**
 - 🧠 **Learning MFC (Microsoft Foundation Classes)** to build **SDI desktop applications**.
@@ -26,12 +26,12 @@ I'm passionate about **engineering-level software development**, especially in t
 
 | **Category**         | **Technologies**                                      |
 |----------------------|-----------------------------------------------------|
-| **Languages**        | C++, C#, Python, Java                                |
+| **Languages**        | C++,Flutter,Dart,C#, Python, Java                                |
 | **Desktop Dev**      | MFC, Win32 API, SDI Architecture                     |
 | **Graphics (Learning)** | DirectX, OpenGL                                 |
 | **Tools**            | Visual Studio, Git, Windows, VS Code, GitHub        |
 | **Problem Solving**  | LeetCode, HackerRank                                 |
-| **Version Control**  | Git, GitHub                                          |
+| **Version Control**  | Git, GitHub ,Azure Devops                                         |
 
 ---
 
@@ -63,7 +63,7 @@ I'm passionate about **engineering-level software development**, especially in t
 🚀 **[C++ Console Applications](https://github.com/nibinpsreenivas/console-cpp-apps)**  
 📦 A set of beginner-level applications developed during early C++ training, focusing on logic and OOP fundamentals.  
 
-🔜 More projects coming soon: **DirectX experiments**, **MFC healthcare viewer module**, and **OpenGL trials**!
+🔜 More projects coming soon: **DirectX experiments**
 
 ---
 
