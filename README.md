@@ -1,6 +1,6 @@
-<h1 align="center">💻 Nibin P Sreenivas | C++ Developer | Future-Focused Software Engineer</h1>
+<h1 align="center">💻 Nibin P Sreenivas | Backend Developer | Future-Focused Software Engineer</h1>
 
-<h3 align="center">🔹 C++ | MFC | SDI | Healthcare Tech | Engineering-Level Coding 🔹</h3>
+<h3 align="center">🔹 Java & C++ | Mirco Service | Backedn | Healthcare Tech | Engineering-Level Coding 🔹</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nibinpsreenivas&label=Profile%20Views&color=blue&style=flat" alt="Profile Views">
 </p> 
@@ -11,14 +11,18 @@
 
 I am a **CSE Graduate** from **College of Engineering, Chengannur (2024)** and currently working as a **Software Engineer Trainee at Trenser Technology Solutions**.  
 
-I'm passionate about **engineering-level software development** and currently focused on mastering **C++ and MFC** for building performance-critical desktop applications.
+I am focused on building **scalable backend systems** and improving my skills in **Java Spring Boot and Node.js**. I enjoy solving real-world problems by designing efficient APIs, handling data, and optimizing performance.
 
-### **🚀 What I’m Currently Doing**
-- 🧠 **Learning MFC (Microsoft Foundation Classes)** to build **SDI desktop applications**.
-- 🎮 Building a **custom UI Tic Tac Toe game** to explore event handling, message mapping, and UI design in MFC.
-- 🛠️ Exploring **DirectX & OpenGL** to expand into graphics-heavy application development.
-- 🧑‍💻 Strengthening **C++ fundamentals** and STL for better problem-solving.
-- 📈 Maintaining **LeetCode and GitHub streaks** to improve consistency and coding skill.
+---
+
+## 🚀 What I’m Currently Doing  
+
+- ⚙️ Building **REST APIs using Spring Boot**
+- 🌐 Developing backend services with **Node.js & Express**
+- 🗄️ Working with **databases (SQL & NoSQL)**
+- 🔐 Learning **authentication & authorization (JWT, sessions)**
+- 🧠 Strengthening **Data Structures & Algorithms**
+- 📈 Maintaining **LeetCode and GitHub consistency**
 
 ---
 
@@ -26,16 +30,17 @@ I'm passionate about **engineering-level software development** and currently fo
 
 | **Category**         | **Technologies**                                      |
 |----------------------|-----------------------------------------------------|
-| **Languages**        | C++,Flutter,Dart,C#, Python, Java                                |
-| **Desktop Dev**      | MFC, Win32 API, SDI Architecture                     |
-| **Graphics (Learning)** | DirectX, OpenGL                                 |
-| **Tools**            | Visual Studio, Git, Windows, VS Code, GitHub        |
-| **Problem Solving**  | LeetCode, HackerRank                                 |
-| **Version Control**  | Git, GitHub ,Azure Devops                                         |
+| **Languages**        | Java, JavaScript, C++, Python                        |
+| **Backend**          | Spring Boot, Node.js, Express.js                    |
+| **Database**         | MySQL, MongoDB                                      |
+| **API & Tools**      | REST APIs, Postman                                  |
+| **Version Control**  | Git, GitHub, Azure DevOps                           |
+| **Tools**            | VS Code, IntelliJ, Visual Studio                    |
+| **Problem Solving**  | LeetCode, HackerRank                                |
 
 ---
 
-## 📊 My GitHub Journey  
+## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nibinpsreenivas&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
@@ -49,52 +54,52 @@ I'm passionate about **engineering-level software development** and currently fo
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nibinpsreenivas&layout=compact&theme=tokyonight&hide_border=true" width="40%">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nibinpsreenivas&theme=tokyo-night"> 
-</p>
-
 ---
 
 ## 📂 Projects  
+
 🚀 **[LeetCode Solutions](https://github.com/nibinpsreenivas/leetcode)**  
-📘 A collection of solutions to various LeetCode problems, primarily in Java.
+📘 Consistent problem-solving with optimized solutions.
 
 🚀 **[CEC Connect](https://github.com/nibinpsreenivas/cec_connect)**  
-🌐 A platform aimed at connecting students and alumni of the College of Engineering Chengannur.
+🌐 Full-stack platform to connect students and alumni.
 
 🚀 **[Hellogram Node.js](https://github.com/nibinpsreenivas/Hellogram_Node-js)**  
-💬 A simple social media application built using Node.js.
-
-🚀 **[Object-Oriented Programming](https://github.com/nibinpsreenivas/Object-oriented-programming)**  
-🧠 Implementations and examples demonstrating OOP concepts in C++.
-
-🚀 **[Data Structures and Algorithms in Java](https://github.com/nibinpsreenivas/Data-Structures-and-Algorithms-in-Java)**  
-📚 A repository containing implementations of fundamental data structures and algorithms using Java.
+💬 Backend-driven social media app using Node.js & Express.
 
 🚀 **[To-Do App with Backend](https://github.com/nibinpsreenivas/todo_with_back_end)**  
-📝 A full-stack to-do application with a backend implemented in Node.js and Express.
+📝 REST-based task management system with Node.js backend.
 
-🚀 **[MFC Tic Tac Toe Game (SDI)](loading.....)**  
-🎮 A classic **Tic Tac Toe game** built using **C++ and MFC** with a **custom UI** and SDI structure.  
+🚀 **[Data Structures & Algorithms](https://github.com/nibinpsreenivas/Data-Structures-and-Algorithms-in-Java)**  
+📚 Core DSA concepts implemented in Java.
 
-🚀 **[C++ Console Applications](loading....)**  
-📦 A set of beginner-level applications developed during early C++ training, focusing on logic and OOP fundamentals.  
+---
 
-🔗 Explore more of my projects on my [GitHub Repositories](https://github.com/nibinpsreenivas?tab=repositories).
+## 🔜 Upcoming Projects  
 
-🔜 More projects coming soon: **DirectX experiments**
+- 🔹 **Spring Boot Microservices Project**
+- 🔹 **Authentication System (JWT + Role-Based Access)**
+- 🔹 **Full-Stack App (React + Spring Boot)**
+- 🔹 **System Design Projects (Scalable APIs)**
 
 ---
 
 ## 📫 Connect with Me  
-🔗 **Portfolio:** [nibinpsreenivas.github.io/Portfolio-Website-Using-React_deploy](https://nibinpsreenivas.github.io/Portfolio-Website-Using-React_deploy/)  
-🔗 **LinkedIn:** [linkedin.com/in/nibinpsreenivas](https://www.linkedin.com/in/nibinpsreenivas)  
-📧 **Email:** nibinpsreenivas@gmail.com  
-📘 **LeetCode:** [leetcode.com/nibinpsreenivas](https://leetcode.com/nibinpsreenivas)  
+
+🔗 **Portfolio:**  
+https://nibinpsreenivas.github.io/Portfolio-Website-Using-React_deploy/  
+
+🔗 **LinkedIn:**  
+https://www.linkedin.com/in/nibinpsreenivas  
+
+📧 **Email:**  
+nibinpsreenivas@gmail.com  
+
+📘 **LeetCode:**  
+https://leetcode.com/nibinpsreenivas  
 
 ---
 
-## 💡 Quote of the Day  
-_"The expert in anything was once a beginner."_ — Helen Hayes  
+## 💡 Quote  
 
-
+_"First solve the problem. Then, write the code."_ — John Johnson
