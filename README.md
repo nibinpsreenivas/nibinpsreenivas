@@ -9,7 +9,7 @@
 
 ## 📌 About Me  
 
-I am a **CSE Graduate** from **College of Engineering, Chengannur (2024)** and currently working as a **Software Engineer Trainee at Trenser Technology Solutions**.  
+I am a **CSE Graduate** from **College of Engineering, Chengannur (2024)** and currently working as a **Software Engineer at Trenser Technology Solutions**.  
 
 I am focused on building **scalable backend systems** and improving my skills in **Java Spring Boot and Node.js**. I enjoy solving real-world problems by designing efficient APIs, handling data, and optimizing performance.
 
